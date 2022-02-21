@@ -24,3 +24,15 @@ Let's implement all ##TODO functions in lab1.py.
 pipenv shell
 python lab1.py | tee lab1_output.txt
 ```
+
+## Output Screenshot
+1.Top X Popular Items
+
+![alt text](https://github.com/AnjaliJain-17/cmpe255-spring21/blob/main/lab1/barplot.png)
+
+
+2.Number of items ordered per order price
+
+
+![alt text](https://github.com/AnjaliJain-17/cmpe255-spring21/blob/main/lab1/scatterplot.png)
+
