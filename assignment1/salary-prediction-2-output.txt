@@ -1,0 +1,211 @@
+Train on 43850 samples
+Epoch 1/100
+43850/43850 [==============================] - 3s 68us/sample - loss: 19976497746.9242 - root_mean_squared_error: 141338.2969
+Epoch 2/100
+43850/43850 [==============================] - 3s 64us/sample - loss: 16883057452.9883 - root_mean_squared_error: 129934.8750
+Epoch 3/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 16475785705.6752 - root_mean_squared_error: 128358.0078s - loss: 15909480687.3273 - root_mean_squared_error:
+Epoch 4/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 17666809002.8924 - root_mean_squared_error: 132916.5938
+Epoch 5/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 21905226340.5318 - root_mean_squared_error: 148004.1406s - los
+Epoch 6/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 18403970876.3074 - root_mean_squared_error: 135661.2656
+Epoch 7/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 18032557601.6274 - root_mean_squared_error: 134285.3438s - loss: 14192
+Epoch 8/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 15568433094.5065 - root_mean_squared_error: 124773.5312
+Epoch 9/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 17789088847.3279 - root_mean_squared_error: 133375.7656
+Epoch 10/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 14600685745.1041 - root_mean_squared_error: 120833.3281
+Epoch 11/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 14308564311.3261 - root_mean_squared_error: 119618.3828
+Epoch 12/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 14890068451.9305 - root_mean_squared_error: 122024.8359
+Epoch 13/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 15218687999.6264 - root_mean_squared_error: 123364.0547s - loss: 14583113376.7 - ETA: 0s - loss: 16081738253.7530 - root_mean_squared_erro
+Epoch 14/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 14601681652.5690 - root_mean_squared_error: 120837.3906
+Epoch 15/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 20949336644.5858 - root_mean_squared_error: 144738.8906
+Epoch 16/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 21109224131.1555 - root_mean_squared_error: 145290.1094s - loss: 24128425778.538 - ETA: 0s - loss: 21363944993.9954 - root_mean_squared_error: 14616
+Epoch 17/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 17645329320.2886 - root_mean_squared_error: 132835.6562
+Epoch 18/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 17292116446.7696 - root_mean_squared_error: 131499.4688
+Epoch 19/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 15392094189.4582 - root_mean_squared_error: 124064.8828
+Epoch 20/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 14841958895.1630 - root_mean_squared_error: 121827.5547
+Epoch 21/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 14942829708.9080 - root_mean_squared_error: 122240.8672
+Epoch 22/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 14901774241.2829 - root_mean_squared_error: 122072.8984
+Epoch 23/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14873490041.9109 - root_mean_squared_error: 121956.8984
+Epoch 24/100
+43850/43850 [==============================] - 2s 55us/sample - loss: 15755605563.7353 - root_mean_squared_error: 125521.3906s - loss: 15723509499.3285 - root_mean_square
+Epoch 25/100
+43850/43850 [==============================] - 2s 55us/sample - loss: 21953417798.5007 - root_mean_squared_error: 148166.8906s - loss: 16036226677.4844 - root_mea - ETA: 1s - loss: 17954990409.0201 - root_mean_squared_error: - ETA: 0s - loss: 16551605247.8613 - root
+Epoch 26/100
+43850/43850 [==============================] - 2s 55us/sample - loss: 19475218869.7396 - root_mean_squared_error: 139553.6250s - loss: 22168851505.2763 - ro
+Epoch 27/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 12808168829.5772 - root_mean_squared_error: 113173.1719s - loss: 12767502967.3420 - root_mean_squared_error: 11299
+Epoch 28/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 15942015519.8292 - root_mean_squared_error: 126261.6953
+Epoch 29/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 15833561437.1875 - root_mean_squared_error: 125831.4297
+Epoch 30/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 36365678580.8376 - root_mean_squared_error: 190697.8594
+Epoch 31/100
+43850/43850 [==============================] - 3s 69us/sample - loss: 15239738695.2772 - root_mean_squared_error: 123449.3672
+Epoch 32/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 18083319326.7434 - root_mean_squared_error: 134474.2344s - loss: 18041877959.3612 - root_mean_squared_error: 134320.04
+Epoch 33/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 14057105812.7894 - root_mean_squared_error: 118562.6953
+Epoch 34/100
+43850/43850 [==============================] - 3s 67us/sample - loss: 16625943400.0580 - root_mean_squared_error: 128941.6797
+Epoch 35/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 24621346124.2104 - root_mean_squared_error: 156911.8750
+Epoch 36/100
+43850/43850 [==============================] - 3s 64us/sample - loss: 24202453422.7105 - root_mean_squared_error: 155571.3750
+Epoch 37/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14442095696.3554 - root_mean_squared_error: 120175.3359
+Epoch 38/100
+43850/43850 [==============================] - 3s 65us/sample - loss: 15639146413.1226 - root_mean_squared_error: 125056.5391s - loss: 16532997261.5941 - root
+Epoch 39/100
+43850/43850 [==============================] - 3s 66us/sample - loss: 14242117930.9333 - root_mean_squared_error: 119340.3750s - loss: 13583661158.2072 - root_mean_
+Epoch 40/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 16620046029.7224 - root_mean_squared_error: 128918.7656
+Epoch 41/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14298924203.8265 - root_mean_squared_error: 119578.1016
+Epoch 42/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 15481500977.7288 - root_mean_squared_error: 124424.6875s - loss: 15122421550
+Epoch 43/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 16319321830.8145 - root_mean_squared_error: 127747.1016
+Epoch 44/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 17595570320.5043 - root_mean_squared_error: 132648.2656
+Epoch 45/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 13241225595.1018 - root_mean_squared_error: 115070.5156
+Epoch 46/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 19716607208.1222 - root_mean_squared_error: 140415.8906
+Epoch 47/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 13100226343.7515 - root_mean_squared_error: 114456.2266
+Epoch 48/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 15392654059.0530 - root_mean_squared_error: 124067.1719s - loss: 15569082858.2969 - root_mean_squared_error: 124776.
+Epoch 49/100
+43850/43850 [==============================] - 4s 81us/sample - loss: 13197102601.5978 - root_mean_squared_error: 114878.6094s - loss: 12923634272.5536 - root_mean_squared_
+Epoch 50/100
+43850/43850 [==============================] - 3s 65us/sample - loss: 14953454139.2274 - root_mean_squared_error: 122284.2891
+Epoch 51/100
+43850/43850 [==============================] - 3s 74us/sample - loss: 16642804068.7303 - root_mean_squared_error: 129007.0000
+Epoch 52/100
+43850/43850 [==============================] - 4s 83us/sample - loss: 20656213914.9077 - root_mean_squared_error: 143722.7188s - loss: 23960602549.9234 - root_mea - ETA: 0s - loss: 21072427370.4049 - root_mean_squared_error: 14516
+Epoch 53/100
+43850/43850 [==============================] - 3s 68us/sample - loss: 15421996803.4678 - root_mean_squared_error: 124185.3125
+Epoch 54/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 15493137957.3404 - root_mean_squared_error: 124471.4766
+Epoch 55/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 14649576857.3665 - root_mean_squared_error: 121035.4531
+Epoch 56/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 19299289124.8558 - root_mean_squared_error: 138921.9688s - loss: 22599217651.8271 - root_m - ETA: 0s - loss: 19288507816.6331 - root_mean_square
+Epoch 57/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 14990384714.7041 - root_mean_squared_error: 122435.2578
+Epoch 58/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 13366907792.3291 - root_mean_squared_error: 115615.2969
+Epoch 59/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 15116059595.7141 - root_mean_squared_error: 122947.3984
+Epoch 60/100
+43850/43850 [==============================] - 3s 69us/sample - loss: 14166393332.9777 - root_mean_squared_error: 119022.6719
+Epoch 61/100
+43850/43850 [==============================] - 3s 65us/sample - loss: 14001525616.7568 - root_mean_squared_error: 118328.0156
+Epoch 62/100
+43850/43850 [==============================] - 3s 61us/sample - loss: 15025618570.5027 - root_mean_squared_error: 122579.0000s - loss: 13468867424.0000 - root_mean_squared_error: 116
+Epoch 63/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 13923378323.9604 - root_mean_squared_error: 117997.3359s - loss: 12994987991.0957 - ro
+Epoch 64/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 15557197948.1410 - root_mean_squared_error: 124728.4766
+Epoch 65/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 13257720233.5263 - root_mean_squared_error: 115142.2031
+Epoch 66/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 14620026296.6586 - root_mean_squared_error: 120913.2812
+Epoch 67/100
+43850/43850 [==============================] - 3s 73us/sample - loss: 12572030605.5385 - root_mean_squared_error: 112125.0078
+Epoch 68/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 14356087784.6944 - root_mean_squared_error: 119816.8828
+Epoch 69/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 16270903237.2689 - root_mean_squared_error: 127557.4844
+Epoch 70/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 13733654112.3284 - root_mean_squared_error: 117190.6797
+Epoch 71/100
+43850/43850 [==============================] - 3s 64us/sample - loss: 15007050439.4757 - root_mean_squared_error: 122503.3281
+Epoch 72/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 13848766436.5377 - root_mean_squared_error: 117680.7891s - loss: 12394
+Epoch 73/100
+43850/43850 [==============================] - 3s 70us/sample - loss: 12857281734.0745 - root_mean_squared_error: 113389.9453
+Epoch 74/100
+43850/43850 [==============================] - 3s 74us/sample - loss: 13886612980.6741 - root_mean_squared_error: 117841.4375
+Epoch 75/100
+43850/43850 [==============================] - 3s 60us/sample - loss: 14624029218.7249 - root_mean_squared_error: 120929.8047
+Epoch 76/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14913342165.8782 - root_mean_squared_error: 122120.2422
+Epoch 77/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 18551164619.1887 - root_mean_squared_error: 136202.6562s - loss: 16026000973.4295 - root_mean_squared_error:
+Epoch 78/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 14726863127.8077 - root_mean_squared_error: 121354.3125
+Epoch 79/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 13393403283.9487 - root_mean_squared_error: 115729.8516
+Epoch 80/100
+43850/43850 [==============================] - 3s 73us/sample - loss: 13602496899.3686 - root_mean_squared_error: 116629.7656
+Epoch 81/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 15556972987.9279 - root_mean_squared_error: 124727.6016
+Epoch 82/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14673228884.3019 - root_mean_squared_error: 121133.1406
+Epoch 83/100
+43850/43850 [==============================] - 2s 56us/sample - loss: 13957426160.7743 - root_mean_squared_error: 118141.5312
+Epoch 84/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 16535712530.2732 - root_mean_squared_error: 128591.2422
+Epoch 85/100
+43850/43850 [==============================] - 3s 64us/sample - loss: 13334943843.9247 - root_mean_squared_error: 115477.0156s - loss: 14371468905.2697 - 
+Epoch 86/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 15322284382.2267 - root_mean_squared_error: 123783.1797
+Epoch 87/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 16585298137.2701 - root_mean_squared_error: 128783.8906s - loss: 17206483763.1565 - 
+Epoch 88/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 16461686187.3011 - root_mean_squared_error: 128303.0859
+Epoch 89/100
+43850/43850 [==============================] - 3s 58us/sample - loss: 14240772277.0040 - root_mean_squared_error: 119334.7500s - loss: 13664282922.7929 - root_mean_squared_error: 116894.37
+Epoch 90/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 17012736421.9300 - root_mean_squared_error: 130432.8594s - loss: 18352249772.4806 - root_mean_squa
+Epoch 91/100
+43850/43850 [==============================] - 3s 57us/sample - loss: 13609316649.4387 - root_mean_squared_error: 116658.9844
+Epoch 92/100
+43850/43850 [==============================] - 3s 62us/sample - loss: 14760294836.5252 - root_mean_squared_error: 121491.8906s - loss: 15115242478.0210 - root
+Epoch 93/100
+43850/43850 [==============================] - 3s 63us/sample - loss: 16019184305.9215 - root_mean_squared_error: 126566.8516
+Epoch 94/100
+43850/43850 [==============================] - 3s 71us/sample - loss: 13985870276.7084 - root_mean_squared_error: 118261.8984
+Epoch 95/100
+43850/43850 [==============================] - 3s 66us/sample - loss: 13598545337.7562 - root_mean_squared_error: 116612.8906
+Epoch 96/100
+43850/43850 [==============================] - 2s 57us/sample - loss: 14358571560.0843 - root_mean_squared_error: 119827.1875
+Epoch 97/100
+43850/43850 [==============================] - 3s 59us/sample - loss: 14291271052.1491 - root_mean_squared_error: 119546.1172
+Epoch 98/100
+43850/43850 [==============================] - 3s 69us/sample - loss: 14364527733.2054 - root_mean_squared_error: 119852.1016
+Epoch 99/100
+43850/43850 [==============================] - 3s 70us/sample - loss: 15879320738.0185 - root_mean_squared_error: 126013.1562
+Epoch 100/100
+43850/43850 [==============================] - 3s 71us/sample - loss: 14560947346.9796 - root_mean_squared_error: 120668.7422
+
+The RMSE value on test data is  364178.6877967391
+
+Out[5]:
+company	title	yearsatcompany	totalyearlycompensation	predicated_totalyearlycompensation
+20778	Netflix	Data Scientist	0.0	375000	400178.15625
+13667	Snap	Software Engineer	0.0	198000	357901.28125
+48762	Snap	Data Scientist	0.0	385000	348078.21875
+37949	Snap	Software Engineer	0.0	188000	346055.71875
+52492	Snap	Software Engineer	0.0	191000	346055.71875
