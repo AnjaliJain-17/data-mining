@@ -1,0 +1,110 @@
+Train on 43850 samples
+Epoch 1/50
+43850/43850 [==============================] - 3s 70us/sample - loss: 21345058098.8497 - root_mean_squared_error: 146099.5156
+Epoch 2/50
+43850/43850 [==============================] - 3s 61us/sample - loss: 18644324719.5658 - root_mean_squared_error: 136544.1406
+Epoch 3/50
+43850/43850 [==============================] - 3s 59us/sample - loss: 18482441119.5081 - root_mean_squared_error: 135950.0938s - loss: 17770261677.5481 - root_mean_squared_er
+Epoch 4/50
+43850/43850 [==============================] - 3s 63us/sample - loss: 19278490294.5919 - root_mean_squared_error: 138846.9844
+Epoch 5/50
+43850/43850 [==============================] - 3s 61us/sample - loss: 29342256511.7256 - root_mean_squared_error: 171295.7344
+Epoch 6/50
+43850/43850 [==============================] - 3s 61us/sample - loss: 19883398531.1351 - root_mean_squared_error: 141008.5469
+Epoch 7/50
+43850/43850 [==============================] - 3s 60us/sample - loss: 19812917446.9853 - root_mean_squared_error: 140758.3125
+Epoch 8/50
+43850/43850 [==============================] - 3s 60us/sample - loss: 17348048107.0880 - root_mean_squared_error: 131711.9844
+Epoch 9/50
+43850/43850 [==============================] - 3s 62us/sample - loss: 20178343639.1918 - root_mean_squared_error: 142050.4375
+Epoch 10/50
+43850/43850 [==============================] - 3s 61us/sample - loss: 16992602758.6729 - root_mean_squared_error: 130355.7578s - loss: 16977048463.5549 - root_mean_squared_error: 130296.08
+Epoch 11/50
+43850/43850 [==============================] - 2s 57us/sample - loss: 16113611642.0510 - root_mean_squared_error: 126939.3828
+Epoch 12/50
+43850/43850 [==============================] - 3s 78us/sample - loss: 17269624287.4235 - root_mean_squared_error: 131413.9531
+Epoch 13/50
+43850/43850 [==============================] - 3s 62us/sample - loss: 17621091992.7476 - root_mean_squared_error: 132744.4844
+Epoch 14/50
+43850/43850 [==============================] - 3s 59us/sample - loss: 16970720612.8704 - root_mean_squared_error: 130271.6953
+Epoch 15/50
+43850/43850 [==============================] - 3s 58us/sample - loss: 23675850606.2814 - root_mean_squared_error: 153869.5625s - loss: 31487966507
+Epoch 16/50
+43850/43850 [==============================] - 3s 65us/sample - loss: 25678113647.0520 - root_mean_squared_error: 160243.8906
+Epoch 17/50
+43850/43850 [==============================] - 3s 65us/sample - loss: 19650414673.9200 - root_mean_squared_error: 140179.9531
+Epoch 18/50
+43850/43850 [==============================] - 3s 65us/sample - loss: 20553568693.4360 - root_mean_squared_error: 143365.1406
+Epoch 19/50
+43850/43850 [==============================] - 2s 57us/sample - loss: 17873372775.1706 - root_mean_squared_error: 133691.3281
+Epoch 20/50
+43850/43850 [==============================] - 3s 60us/sample - loss: 16705930925.4845 - root_mean_squared_error: 129251.4297s - loss: 14334283578.0971 - root_mean_square - ETA: 1s - loss: 157
+Epoch 21/50
+43850/43850 [==============================] - 3s 57us/sample - loss: 17492129968.9173 - root_mean_squared_error: 132257.8125
+Epoch 22/50
+43850/43850 [==============================] - 2s 57us/sample - loss: 17045544730.6800 - root_mean_squared_error: 130558.6016s - l
+Epoch 23/50
+43850/43850 [==============================] - 2s 57us/sample - loss: 17147397630.5872 - root_mean_squared_error: 130948.1094
+Epoch 24/50
+43850/43850 [==============================] - 2s 56us/sample - loss: 17584176375.6749 - root_mean_squared_error: 132605.3906
+Epoch 25/50
+43850/43850 [==============================] - 3s 59us/sample - loss: 26174654735.9146 - root_mean_squared_error: 161785.8594
+Epoch 26/50
+43850/43850 [==============================] - 3s 59us/sample - loss: 21155992827.6448 - root_mean_squared_error: 145450.9688
+Epoch 27/50
+43850/43850 [==============================] - 3s 61us/sample - loss: 14956310408.7630 - root_mean_squared_error: 122295.9766
+Epoch 28/50
+43850/43850 [==============================] - 3s 65us/sample - loss: 18713398422.6926 - root_mean_squared_error: 136796.9062
+Epoch 29/50
+43850/43850 [==============================] - 3s 60us/sample - loss: 18221846199.2925 - root_mean_squared_error: 134988.3125
+Epoch 30/50
+43850/43850 [==============================] - 3s 62us/sample - loss: 46729314902.3803 - root_mean_squared_error: 216169.6562
+Epoch 31/50
+43850/43850 [==============================] - 3s 67us/sample - loss: 17125353126.6656 - root_mean_squared_error: 130863.9141
+Epoch 32/50
+43850/43850 [==============================] - 3s 69us/sample - loss: 22005136978.2936 - root_mean_squared_error: 148341.2500
+Epoch 33/50
+43850/43850 [==============================] - 3s 64us/sample - loss: 16678783959.1334 - root_mean_squared_error: 129146.3359
+Epoch 34/50
+43850/43850 [==============================] - 3s 66us/sample - loss: 20285618010.9690 - root_mean_squared_error: 142427.5625
+Epoch 35/50
+43850/43850 [==============================] - 3s 63us/sample - loss: 30376197324.8467 - root_mean_squared_error: 174287.7031s - loss: 62917264062.9841 -  - ETA: 1s - loss: 3988412
+Epoch 36/50
+43850/43850 [==============================] - 3s 69us/sample - loss: 27438936596.1531 - root_mean_squared_error: 165647.0156
+Epoch 37/50
+43850/43850 [==============================] - 3s 57us/sample - loss: 16724492459.4529 - root_mean_squared_error: 129323.2266
+Epoch 38/50
+43850/43850 [==============================] - 2s 51us/sample - loss: 18092093489.9974 - root_mean_squared_error: 134506.8750s - loss: 20147807953.3668 
+Epoch 39/50
+43850/43850 [==============================] - 3s 64us/sample - loss: 16294001993.1278 - root_mean_squared_error: 127647.9922
+Epoch 40/50
+43850/43850 [==============================] - 3s 59us/sample - loss: 19347678342.8130 - root_mean_squared_error: 139095.9062
+Epoch 41/50
+43850/43850 [==============================] - 2s 56us/sample - loss: 16961150004.0991 - root_mean_squared_error: 130235.0312s - loss: 182
+Epoch 42/50
+43850/43850 [==============================] - 2s 56us/sample - loss: 18412703831.1509 - root_mean_squared_error: 135693.4219
+Epoch 43/50
+43850/43850 [==============================] - 4s 84us/sample - loss: 18968130135.9683 - root_mean_squared_error: 137724.7812
+Epoch 44/50
+43850/43850 [==============================] - 3s 58us/sample - loss: 20146054030.0873 - root_mean_squared_error: 141936.7812s - loss: 20780521298.1056 - root_mean_squared_error: 144
+Epoch 45/50
+43850/43850 [==============================] - 3s 58us/sample - loss: 16012968272.7407 - root_mean_squared_error: 126542.3594
+Epoch 46/50
+43850/43850 [==============================] - 2s 55us/sample - loss: 22859970780.9598 - root_mean_squared_error: 151195.1406s - loss: 15696243247.1809 - ro
+Epoch 47/50
+43850/43850 [==============================] - 3s 67us/sample - loss: 15573782786.0667 - root_mean_squared_error: 124794.9609
+Epoch 48/50
+43850/43850 [==============================] - 2s 55us/sample - loss: 18030579629.6013 - root_mean_squared_error: 134277.9688
+Epoch 49/50
+43850/43850 [==============================] - 3s 66us/sample - loss: 15547445960.6666 - root_mean_squared_error: 124689.3906
+Epoch 50/50
+43850/43850 [==============================] - 2s 57us/sample - loss: 17710870131.3664 - root_mean_squared_error: 133082.2500s - loss: 15645937344.6203 - root_mean_squared_
+
+The RMSE value on test data is  173753.16245955136
+Out[8]:
+title	location	yearsofexperience	totalyearlycompensation	predicated_totalyearlycompensation
+25665	Hardware Engineer	Menlo Park, CA	10.0	319000	398618.875000
+31784	Product Manager	Seattle, WA	9.0	360000	290910.000000
+27793	Software Engineer	New York, NY	1.0	105000	179369.515625
+12850	Product Manager	Sunnyvale, CA	12.0	217000	340028.312500
+57460	Software Engineer	Redmond, WA	5.0	184000	195374.890625
