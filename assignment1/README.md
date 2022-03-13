@@ -6,10 +6,10 @@ Dataset link : https://www.kaggle.com/jackogozaly/data-science-and-stem-salaries
 
 Model provides below predictions:
 
-0. How much salary would you get for a given position?
-1. How much you would get if I join for a position based on number of experiences and location?
-2. How much you would get if you accept an offer for a position from X company based on number of experiences and location?
-3. How much you will be getting for a position after Y years joining to X company?
+0. How much salary would you get for a given position? [Refer : salary-prediction-0-output.txt]
+1. How much you would get if I join for a position based on number of experiences and location?[salary-prediction-1-output.txt]
+2. How much you would get if you accept an offer for a position from X company based on number of experiences and location?[salary-prediction-2-output.txt]
+3. How much you will be getting for a position after Y years joining to X company?[salary-prediction-3-output.txt]
 
 
 Comments:
